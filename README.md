@@ -1,2 +1,1 @@
-# images
-Images for portfolio
+# Images of projects for portfolio
